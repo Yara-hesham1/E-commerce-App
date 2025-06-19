@@ -6,7 +6,7 @@ import Login from "./components/Login/Login";
 import NotFound from './components/NotFound/NotFound';
 import Register from "./components/Register/Register";
 import Layout from './components/Layout/Layout';
-import CounterContextProvider from "./context/counterContext";
+import CounterContextProvider from "./context/CounterContext";
 import AuthContextProvider from './context/AuthContext';
 import Categories from './components/Categories/Categories';
 import Brands from './components/Brands/Brands';
