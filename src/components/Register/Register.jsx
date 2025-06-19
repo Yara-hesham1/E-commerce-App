@@ -8,7 +8,7 @@ import { data, useNavigate } from 'react-router-dom'
 
 import * as yup from"yup" 
 import Login from './../Login/Login';
-import { CounterContextrObj } from '../../context/counterContext'
+import { CounterContextrObj } from '../../context/CounterContext'
 import Footer from '../Footer/Footer'
 
 
